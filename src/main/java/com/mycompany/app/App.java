@@ -7,6 +7,11 @@ public class App
 {
 
     public long add(long first, long second) {
+        int simplice;
+        int a;
+        int b;
+        int c;
+        int d;
         return first + second;
     }
 
